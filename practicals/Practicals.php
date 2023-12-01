@@ -1,5 +1,5 @@
 <?php
-
+namespace practicals;
 /**
  * Class Practical
  * Contains static functions for various practical tasks.
