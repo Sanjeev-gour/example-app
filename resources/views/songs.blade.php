@@ -18,4 +18,4 @@
         <td>{{ $song->getArtist() }}</td>
         </tr>
         @endforeach
-        </table>
+</table>
