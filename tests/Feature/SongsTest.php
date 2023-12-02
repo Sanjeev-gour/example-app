@@ -13,9 +13,8 @@ class SongsTest extends TestCase
      */
     public function test_example(): void
     {
-        $response = $this->get('/songs');
+        $response = $this->get('/songs_static');
 
         $response->assertStatus(200);
     }
 }
-?>
