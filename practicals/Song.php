@@ -1,5 +1,5 @@
 <?php
- namespace Practicals;
+  namespace Practicals;
 class Song {
     private $title;
     private $artist;
